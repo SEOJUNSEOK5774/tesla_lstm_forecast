@@ -1,5 +1,3 @@
-# Tesla_Lstm_Forecast
-
 # Tesla Open Price Prediction with LSTM
 
 ### 1. プロジェクト概要
